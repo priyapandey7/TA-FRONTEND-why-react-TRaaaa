@@ -130,7 +130,7 @@ table {
 
 /* Custom Styles */
 body {
-  background-color: rgb(227, 181, 181);
+  background-color: white;
   font-family: 'Nunito', sans-serif;
 }
 
@@ -145,6 +145,12 @@ main {
   height: 80vh;
 }
 
+.card {
+  margin: 2rem auto;
+  width: 30%;
+  background-color: whitesmoke;
+  padding: 1.5rem;
+}
 
 .full-width {
   width: 100%;
