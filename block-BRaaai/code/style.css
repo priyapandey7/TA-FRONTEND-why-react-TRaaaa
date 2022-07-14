@@ -218,3 +218,13 @@ span {
 .date p {
   font-size: 1.3rem;
 }
+.background-img {
+  /* position: absolute; */
+  /* background-color: rgb(241, 3, 15); */
+  /* color: white; */
+  font-weight: 700;
+  font-size: 1.2rem;
+  padding: 0.9rem;
+  left: 0;
+  bottom: 0.15rem;
+}
